@@ -8,6 +8,11 @@ The goal is to support experimentation and research by allowing an AI agent team
 
 ---
 
+## Demo Video
+[demo](https://github.com/viperx25/agent-demo/raw/refs/heads/main/demo_video.mov)
+
+---
+
 ## Overview
 
 This demo:
