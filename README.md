@@ -120,3 +120,9 @@ If you prefer to run the data pipeline step-by-step without the AI interface:
 This demo is fully containerized. No local installation of Zeek or PostgreSQL is required.
 
 All results are reproducible from the included PCAP file.
+
+---
+
+## PCAP Files
+
+The example PCAP file is from [Palo Alto Unit 42's Github.]https://github.com/pan-unit42/Wireshark-quizzes/tree/main)
