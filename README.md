@@ -1,4 +1,4 @@
-# Cybersecurity AI Agent Demo (Zeek + PostgreSQL + Google ADK)
+# Cyber AI Agent Demo (Zeek + PostgreSQL + Google ADK)
 
 This repository demonstrates a fully reproducible pipeline for ingesting network traffic into a relational database and utilizing a Multi-Agent AI system powered by Google ADK to autonomously hunt for MITRE ATT&CK techniques.
 
