@@ -125,4 +125,4 @@ All results are reproducible from the included PCAP file.
 
 ## PCAP Files
 
-The example PCAP file is from [Palo Alto Unit 42's Github.]https://github.com/pan-unit42/Wireshark-quizzes/tree/main)
+The example PCAP file is from [Palo Alto Unit 42's Github.](https://github.com/pan-unit42/Wireshark-quizzes/tree/main)
